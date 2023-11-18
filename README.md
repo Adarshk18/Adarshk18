@@ -23,6 +23,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Zaun3OlE2v8vBeMpOQ8u9IYjq_3Rgfcj/view?usp=drive_link](https://drive.google.com/file/d/1Zaun3OlE2v8vBeMpOQ8u9IYjq_3Rgfcj/view?usp=drive_link)
 - [![Adarshk18's GitHub | Stats](https://stats.quine.sh/Adarshk18/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adarshk18)
+- [![Adarshk18's GitHub | Topics Over Time](https://stats.quine.sh/Adarshk18/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adarshk18)
+- [![Adarshk18's GitHub | Languages Over Time](https://stats.quine.sh/Adarshk18/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adarshk18)
+- [![Adarshk18's Stack Overflow | Stats](https://stats.quine.sh/Adarshk18/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adarshk18)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
