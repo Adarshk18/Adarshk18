@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Virtual Wardrobe Assistant](https://github.com/Adarshk18/VirtualWardrobeAssistant/tree/stable)
 
-- 🌱 I’m currently learning **Node.js,AI**
+- 🌱 I’m currently learning **Blockchain,AI**
 
-- 👯 I’m looking to collaborate on **A Job Search App**
+- 👯 I’m looking to collaborate on **A Mental Health App**
 
-- 🤝 I’m looking for help with **EcommerceFinal**
+- 🤝 I’m looking for help with **A virtual Study Group App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarshk18?tab=repositories](https://github.com/Adarshk18?tab=repositories)
 
-- 💬 Ask me about **Flutter, REST API, Android Development, Firebase, MySql**
+- 💬 Ask me about **Flutter, REST API, Android Development, Firebase, MySql, MongoDB, Blockchain, AI, Node.js**
 
 - 📫 How to reach me **dev.adarsh286@gmail.com**
 
