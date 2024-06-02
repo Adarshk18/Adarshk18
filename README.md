@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/dev_adarsh286" target="blank"><img src="https://img.shields.io/twitter/follow/dev_adarsh286?logo=twitter&style=for-the-badge" alt="dev_adarsh286" /></a> </p>
 
-- 🔭 I’m currently working on [Virtual Wardrobe Assistant](https://github.com/Adarshk18/VirtualWardrobeAssistant/tree/stable)
+- 🔭 I’m currently working on [Web 3.0](https://github.com/Adarshk18/VirtualWardrobeAssistant/tree/stable)
 
-- 🌱 I’m currently learning **Blockchain,AI**
+- 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **A Mental Health App**
+- 👯 I’m looking to collaborate on **Crowd Funding App**
 
-- 🤝 I’m looking for help with **A virtual Study Group App**
+- 🤝 I’m looking for help with **RealEstate App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarshk18?tab=repositories](https://github.com/Adarshk18?tab=repositories)
 
-- 💬 Ask me about **Flutter, REST API, Android Development, Firebase, MySql, MongoDB, Blockchain, AI, Node.js**
+- 💬 Ask me about **Flutter, REST API, Android Development, Firebase, MySql, MongoDB, Blockchain, Node.js**
 
 - 📫 How to reach me **dev.adarsh286@gmail.com**
 
