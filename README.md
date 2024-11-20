@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">Software Engineer @TCS & A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshk18&label=Profile%20views&color=0e75b6&style=flat" alt="adarshk18" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **Crowd Funding App**
+- 👯 I’m looking to collaborate on **Real Estate App**
 
-- 🤝 I’m looking for help with **RealEstate App**
+- 🤝 I’m looking for help with **DSA Colaboration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarshk18?tab=repositories](https://github.com/Adarshk18?tab=repositories)
 
