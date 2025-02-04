@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **Real Estate App**
+- 👯 I’m looking to collaborate on **NFT Gaming App**
 
-- 🤝 I’m looking for help with **DSA Colaboration**
+- 🤝 I’m looking for help with **Web3 Colaboration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarshk18?tab=repositories](https://github.com/Adarshk18?tab=repositories)
 
-- 💬 Ask me about **Flutter, REST API, Android Development, Firebase, MySql, MongoDB, Blockchain, Node.js**
+- 💬 Ask me about **Flutter, REST API, Android Development, Firebase, MySql, MongoDB, Blockchain, Node.js, Web 3, MERN**
 
 - 📫 How to reach me **dev.adarsh286@gmail.com**
 
