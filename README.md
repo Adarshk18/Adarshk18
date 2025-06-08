@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
-<h3 align="center">Software Engineer @TCS .  A passionate Full-Stack & Blockchain developer from India</h3>
+<h3 align="center">Software Engineer @TCS .  A passionate Backend & Blockchain developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshk18&label=Profile%20views&color=0e75b6&style=flat" alt="adarshk18" /> </p>
 
@@ -11,17 +11,17 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **NFT Gaming App**
+- 👯 I’m looking to collaborate on **A DApp Capstone Project**
 
 - 🤝 I’m looking for help with **Web3 Colaboration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarshk18?tab=repositories](https://github.com/Adarshk18?tab=repositories)
 
-- 💬 Ask me about **Flutter, REST API, Android Development, Firebase, MySql, MongoDB, Blockchain, Node.js, Web 3, MERN**
+- 💬 Ask me about **REST API,Firebase,Blockchain,Web 3, MERN**
 
 - 📫 How to reach me **dev.adarsh286@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1Zaun3OlE2v8vBeMpOQ8u9IYjq_3Rgfcj/view?usp=drive_link](https://drive.google.com/file/d/1ysl7updo8OpI1-ACqnGoACI1bEGPvyBV/view?usp=sharing)]([https://drive.google.com/file/d/1Zaun3OlE2v8vBeMpOQ8u9IYjq_3Rgfcj/view?usp=drive_link](https://drive.google.com/file/d/1ysl7updo8OpI1-ACqnGoACI1bEGPvyBV/view?usp=sharing))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Zaun3OlE2v8vBeMpOQ8u9IYjq_3Rgfcj/view?usp=drive_link](https://drive.google.com/file/d/1OFvpMb_j7tvNxSb17MZdsOaOvwri21YD/view?usp=sharing)]([https://drive.google.com/file/d/1Zaun3OlE2v8vBeMpOQ8u9IYjq_3Rgfcj/view?usp=drive_link](https://drive.google.com/file/d/1ysl7updo8OpI1-ACqnGoACI1bEGPvyBV/view?usp=sharing))
 - [![Adarshk18's GitHub | Stats](https://stats.quine.sh/Adarshk18/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adarshk18)  [![Adarshk18's GitHub | Topics Over Time](https://stats.quine.sh/Adarshk18/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adarshk18)
 - [![Adarshk18's GitHub | Languages Over Time](https://stats.quine.sh/Adarshk18/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adarshk18)
 - [![Adarshk18's Stack Overflow | Stats](https://stats.quine.sh/Adarshk18/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Adarshk18)
