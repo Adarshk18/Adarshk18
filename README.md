@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Web 3.0](https://github.com/Adarshk18/VirtualWardrobeAssistant/tree/stable)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **A DApp Capstone Project**
+- 👯 I’m looking to collaborate on **TrustPay - full-stack MERN + Solana dApp that enables milestone-based escrow payments between clients and freelancers.**
 
 - 🤝 I’m looking for help with **Web3 Colaboration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarshk18?tab=repositories](https://github.com/Adarshk18?tab=repositories)
 
-- 💬 Ask me about **REST API,Firebase,Blockchain,Web 3, MERN**
+- 💬 Ask me about **REST API,Firebase,Blockchain,Rust,Solana,Web 3, MERN**
 
 - 📫 How to reach me **dev.adarsh286@gmail.com**
 
