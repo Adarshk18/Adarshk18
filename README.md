@@ -59,16 +59,16 @@
 
   <!-- Blockchain Tools -->
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://imgs.search.brave.com/xt7w4Oc6RanxW0_btdS2drkP1G6wG8DjjYbKYH6fvXc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvNTAwcC8y/OC81MC9ldGhlcmV1/bS1sb2dvLXdpdGgt/bGlnaHQtcmF5cy12/ZWN0b3ItMzY5NTI4/NTAuanBn" alt="ethereum" width="40" height="40"/> 
+    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040" alt="ethereum" width="40" height="40"/> 
   </a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> 
+    <img src="https://images.seeklogo.com/logo-png/42/1/hardhat-logo-png_seeklogo-426726.png" alt="hardhat" width="40" height="40"/> 
   </a>
   <a href="https://metamask.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" alt="metamask" width="40" height="40"/> 
+    <img src="https://images.seeklogo.com/logo-png/42/2/metamask-logo-png_seeklogo-426728.png" alt="metamask" width="40" height="40"/> 
   </a>
   <a href="https://www.solana.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" alt="solana" width="40" height="40"/> 
+    <img src="https://image.shutterstock.com/image-photo/image-260nw-2230267903.jpg" alt="solana" width="40" height="40"/> 
   </a>
   <a href="https://www.anchor-lang.com/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/79146001?s=200&v=4" alt="anchor" width="40" height="40"/> 
