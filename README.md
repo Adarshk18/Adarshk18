@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="[https://www.rust-lang.org/static/images/rust-logo-blk.svg](https://e7.pngegg.com/pngimages/856/814/png-clipart-rust-system-programming-language-computer-programming-rusted-miscellaneous-computer-programming-thumbnail.png)" alt="rust" width="40" height="40"/> 
+    <img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/3X/1/6/164564abf1e54ded47686b0637e20442a8368551.png" alt="rust" width="40" height="40"/> 
   </a>
   
   <!-- Frameworks & Libraries -->
@@ -59,7 +59,7 @@
 
   <!-- Blockchain Tools -->
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="ethereum" width="40" height="40"/> 
+    <img src="https://imgs.search.brave.com/W63hUmVtflGvyAaXterVH5yXamHrxF2B9k4mJ-0idao/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC83OC80Ni9l/dGhlcmV1bS1jcnlw/dG9jdXJyZW5jeS1s/b2dvLXZlY3Rvci00/MDA2Nzg0Ni5qcGc" alt="ethereum" width="40" height="40"/> 
   </a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> 
