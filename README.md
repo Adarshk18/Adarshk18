@@ -23,7 +23,61 @@
 ---
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
+<p align="left"> 
+  <!-- Languages -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+  </a>
+  
+  <!-- Frameworks & Libraries -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="zustand" width="40" height="40"/> 
+  </a>
+
+  <!-- Databases & Cloud -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+
+  <!-- Blockchain Tools -->
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="ethereum" width="40" height="40"/> 
+  </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> 
+  </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" alt="metamask" width="40" height="40"/> 
+  </a>
+  <a href="https://www.solana.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" alt="solana" width="40" height="40"/> 
+  </a>
+  <a href="https://www.anchor-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/79146001?s=200&v=4" alt="anchor" width="40" height="40"/> 
+  </a>
+  <a href="https://phantom.app/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/78782331?s=200&v=4" alt="phantom wallet" width="40" height="40"/> 
+  </a>
+</p>
+
 
 ---
 
