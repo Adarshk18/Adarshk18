@@ -59,8 +59,7 @@
 
   <!-- Blockchain Tools -->
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
-    <img src="![WhatsApp Image 2025-08-24 at 09 18 15_50d2aaef](https://github.com/user-attachments/assets/8ca91f90-1503-46b4-8e36-43e9457304b5)
-" alt="ethereum" width="40" height="40"/> 
+    <img src="https://imgs.search.brave.com/xt7w4Oc6RanxW0_btdS2drkP1G6wG8DjjYbKYH6fvXc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvNTAwcC8y/OC81MC9ldGhlcmV1/bS1sb2dvLXdpdGgt/bGlnaHQtcmF5cy12/ZWN0b3ItMzY5NTI4/NTAuanBn" alt="ethereum" width="40" height="40"/> 
   </a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> 
