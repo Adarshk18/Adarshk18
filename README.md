@@ -14,7 +14,7 @@
 ---
 
 ### 🌐 Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dev_adarsh286)
+[![X (Twitter)](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://twitter.com/dev_adarsh286)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-sharma-82815020a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/adarshl2l)
 [![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/adarsh400)
