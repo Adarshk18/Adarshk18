@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> 
+    <img src="[https://www.rust-lang.org/static/images/rust-logo-blk.svg](https://e7.pngegg.com/pngimages/856/814/png-clipart-rust-system-programming-language-computer-programming-rusted-miscellaneous-computer-programming-thumbnail.png)" alt="rust" width="40" height="40"/> 
   </a>
   
   <!-- Frameworks & Libraries -->
