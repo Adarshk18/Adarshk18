@@ -89,7 +89,10 @@
 
 ### 📊 GitHub Stats
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshk18&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshk18&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adarshk18&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshk18&layout=compact&theme=radical&hide=c%2B%2B,css,html,scss)  
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adarshk18&theme=radical)
+
 
 ---
