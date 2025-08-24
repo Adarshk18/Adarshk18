@@ -59,13 +59,13 @@
 
   <!-- Blockchain Tools -->
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040" alt="ethereum" width="40" height="40"/> 
+    <img src="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhero.94a1ecc4.png&w=1504&q=75" width="40" height="40"/> 
   </a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.seeklogo.com/logo-png/42/1/hardhat-logo-png_seeklogo-426726.png" alt="hardhat" width="40" height="40"/> 
+    <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo-dark.c3f28192.svg&w=256&q=75" alt="hardhat" width="40" height="40"/> 
   </a>
   <a href="https://metamask.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.seeklogo.com/logo-png/42/2/metamask-logo-png_seeklogo-426728.png" alt="metamask" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-metamask-logo-icon-svg-png-download-2261817.png?f=webp&w=256" alt="metamask" width="40" height="40"/> 
   </a>
   <a href="https://www.solana.com/" target="_blank" rel="noreferrer"> 
     <img src="https://image.shutterstock.com/image-photo/image-260nw-2230267903.jpg" alt="solana" width="40" height="40"/> 
