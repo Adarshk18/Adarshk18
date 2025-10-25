@@ -82,7 +82,7 @@
 ---
 
 ### 📌 Featured Projects
-- 🔹 [**TrustPay**](#) – Full-stack MERN + Solana dApp enabling milestone-based escrow payments.
+- 🔹 [**PortLume**](#) – Full-stack AI Portfolio maker.
 - 🔹 [**Bagify**](https://github.com/Adarshk18/Bagify) – MERN based full-stack bag collections app with Ai chatbot.
 
 ---
@@ -94,6 +94,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshk18&layout=compact&theme=radical&hide=c%2B%2B,css,html,scss)  
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adarshk18&theme=radical)
+
+📈 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshk18&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 
 
