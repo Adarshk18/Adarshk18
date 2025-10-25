@@ -88,12 +88,12 @@
 ---
 
 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshk18&layout=compact&theme=radical&hide=c%2B%2B,css,html,scss" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshk18&theme=radical" alt="Streak Stats" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshk18&layout=compact&theme=radical&hide=c%2B%2B,css,html,scss" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshk18&theme=radical" alt="Streak Stats" /></td>
+  </tr>
+</table>
 
 📈 Contribution Activity
 <div align="center">
