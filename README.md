@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
-<h3 align="center">Software Engineer @TCS | Backend & Blockchain Developer</h3>
+<!-- Animated Header Section -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Adarsh+Sharma;Software+Engineer+@TCS;Backend+%26+Blockchain+Developer" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
+</div>
 
 ---
 
@@ -14,11 +20,13 @@
 ---
 
 ### 🌐 Connect with me:
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://twitter.com/dev_adarsh286)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-sharma-82815020a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/adarshl2l)
-[![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/adarsh400)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21086490)
+<p align="center">
+  <a href="https://twitter.com/dev_adarsh286"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/adarsh-sharma-82815020a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/adarshl2l"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/adarsh400"><img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/21086490"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+</p>
 
 ---
 
