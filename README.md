@@ -19,7 +19,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me on below:
 <p align="center">
   <a href="https://twitter.com/dev_adarsh286"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" /></a>
   <a href="https://linkedin.com/in/adarsh-sharma-82815020a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
