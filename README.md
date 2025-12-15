@@ -15,7 +15,7 @@
 - 👯 Open to collaborate on **Blockchain & Web3 dApps**
 - 💬 Ask me about **REST APIs, Firebase, Blockchain, Rust, Solana, MERN**
 - 📫 Reach me at **dev.adarsh286@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1fXYaCc7m3g9yynRjia-ykMJaELe5vX0w/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1YvrouOhfv8m6unXOYv62TyiJop5c-LL3/view?usp=sharing)
 
 ---
 
