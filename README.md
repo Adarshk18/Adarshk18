@@ -1,33 +1,15 @@
-<!-- Animated Wave Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C00FF&height=200&section=header&text=Adarsh%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header"/>
-</p>
+<!-- Animated Header Section -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Adarsh+Sharma;Software+Engineer;Backend+%26+Blockchain+Developer" alt="Typing SVG" />
+</h1>
 
-<!-- Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+Blockchain+Developer;Rust+%7C+Solana+%7C+Web3;Building+Scalable+Systems" alt="Typing SVG" />
-</p>
-
-<!-- Coding Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBmZXZ6dWZ0NHk3Z3J2a3I1c21qM3U4NnR3a2JxYzJrbGx6b2E4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="coding"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
 </div>
 
-<br/>
+---
 
-## 🚀 About Me
-
-```typescript
-const adarsh = {
-  role: "Software Engineer",
-  focus: ["Backend", "Blockchain", "Web3"],
-  learning: ["Rust", "Solana"],
-  openTo: ["Open Source", "Startups", "Web3 dApps"],
-  askMeAbout: ["APIs", "MERN", "Rust", "Solana", "Blockchain"],
-  email: "dev.adarsh286@gmail.com"
-}
-```
-
+### 🚀 About Me
 - 🔭 Working on **Web 3.0 & Blockchain Projects**
 - 🌱 Learning **Rust & Solana**
 - 👯 Open to collaborate on **Blockchain & Web3 dApps**
@@ -35,79 +17,93 @@ const adarsh = {
 - 📫 Reach me at **dev.adarsh286@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1YvrouOhfv8m6unXOYv62TyiJop5c-LL3/view?usp=sharing)
 
-<br/>
+---
 
-<h2 align="center">🛠 Tech Arsenal</h2>
-
+### 🌐 Connect with me:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,rust,react,nodejs,express,mongodb,firebase,solidity&theme=dark" alt="Tech Stack 1"/>
+  <a href="https://twitter.com/dev_adarsh286"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/adarsh-sharma-82815020a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/adarshl2l"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/adarsh400"><img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/21086490"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ethereum,solana,hardhat,git,github,docker&theme=dark" alt="Tech Stack 2"/>
-</p>
+---
 
-<br/>
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/adarsh-sharma-82815020a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left"> 
+  <!-- Languages -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
-  <a href="https://twitter.com/dev_adarsh286" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://leetcode.com/adarshl2l" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/3X/1/6/164564abf1e54ded47686b0637e20442a8368551.png" alt="rust" width="40" height="40"/> 
   </a>
-  <a href="https://codeforces.com/profile/adarsh400" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  
+  <!-- Frameworks & Libraries -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a>
-  <a href="https://stackoverflow.com/users/21086490" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="zustand" width="40" height="40"/> 
+  </a>
+
+  <!-- Databases & Cloud -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+
+  <!-- Blockchain Tools -->
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhero.94a1ecc4.png&w=1504&q=75" width="40" height="40"/> 
+  </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo-dark.c3f28192.svg&w=256&q=75" alt="hardhat" width="40" height="40"/> 
+  </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-metamask-logo-icon-svg-png-download-2261817.png?f=webp&w=256" alt="metamask" width="40" height="40"/> 
+  </a>
+  <a href="https://www.solana.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://image.shutterstock.com/image-photo/image-260nw-2230267903.jpg" alt="solana" width="40" height="40"/> 
+  </a>
+  <a href="https://www.anchor-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/79146001?s=200&v=4" alt="anchor" width="40" height="40"/> 
+  </a>
+  <a href="https://phantom.app/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/78782331?s=200&v=4" alt="phantom wallet" width="40" height="40"/> 
   </a>
 </p>
 
-<br/>
 
-## 📌 Featured Projects
+---
 
-🚀 **PortLume**  
-> AI-powered portfolio builder for developers  
-> 🧠 Tech: MERN · AI · Tailwind  
+### 📌 Featured Projects
+- 🔹 [**PortLume**](#) – Full-stack AI Portfolio maker.
+- 🔹 [**Bagify**](https://github.com/Adarshk18/Bagify) – MERN based full-stack bag collections app with Ai chatbot.
 
-🛍 **[Bagify](https://github.com/Adarshk18/Bagify)**  
-> Full-stack e-commerce platform with AI chatbot  
-> ⚙️ Tech: MERN · MongoDB · OpenAI  
+---
 
-<br/>
+📊 GitHub Stats
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshk18&layout=compact&theme=radical&hide=c%2B%2B,css,html,scss" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshk18&theme=radical" alt="Streak Stats" /></td>
+  </tr>
+</table>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshk18&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshk18&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshk18&layout=compact&theme=radical&hide_border=true&hide=c%2B%2B,css,html,scss" alt="Top Languages" height="180"/>
-</p>
-
-<br/>
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshk18&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-</p>
-
-<br/>
-
-<!-- Animated Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7C00FF,100:00F5FF&height=120&section=footer" alt="Footer"/>
-</p>
+📈 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshk18&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
