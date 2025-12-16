@@ -1,6 +1,13 @@
 <!-- Animated Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Adarsh+Sharma;Software+Engineer;Backend+%26+Blockchain+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C00FF&height=200&section=header&text=Adarsh%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header"/>
+</p>
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+Blockchain+Developer;Rust+%7C+Solana+%7C+Web3;Building+Scalable+Systems" alt="Typing SVG" />
+</p>
+<!-- Coding Animation -->
+<div align="center">
 </h1>
 
 <div align="center">
