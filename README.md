@@ -10,7 +10,7 @@
 
 <!-- Coding Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBmZXZ6dWZ0NHk3Z3J2a3I1c21qM3U4NnR3a2JxYzJrbGx6b2E4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="coding"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
 </div>
 
 <br/>
