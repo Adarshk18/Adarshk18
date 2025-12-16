@@ -16,24 +16,22 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Working on **Web 3.0 & Blockchain Projects**
-- 🌱 Learning **Rust & Solana**
-- 👯 Open to collaborate on **Blockchain & Web3 dApps**
-- 💬 Ask me about **REST APIs, Firebase, Blockchain, Rust, Solana, MERN**
-- 📫 Reach me at **dev.adarsh286@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1YvrouOhfv8m6unXOYv62TyiJop5c-LL3/view?usp=sharing)
+🚀 About Me
+typescriptconst adarsh = {
+  role: "Software Engineer",
+  focus: ["Backend", "Blockchain", "Web3"],
+  learning: ["Rust", "Solana"],
+  openTo: ["Open Source", "Startups", "Web3 dApps"],
+  askMeAbout: ["APIs", "MERN", "Rust", "Solana", "Blockchain"],
+  email: "dev.adarsh286@gmail.com"
+}
 
----
-
-### 🌐 Connect with me:
-<p align="center">
-  <a href="https://twitter.com/dev_adarsh286"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/adarsh-sharma-82815020a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/adarshl2l"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/adarsh400"><img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/21086490"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-</p>
+🔭 Working on Web 3.0 & Blockchain Projects
+🌱 Learning Rust & Solana
+👯 Open to collaborate on Blockchain & Web3 dApps
+💬 Ask me about REST APIs, Firebase, Blockchain, Rust, Solana, MERN
+📫 Reach me at dev.adarsh286@gmail.com
+📄 My Resume
 
 ---
 
@@ -50,9 +48,35 @@
 
 ---
 
-### 📌 Featured Projects
-- 🔹 [**PortLume**](#) – Full-stack AI Portfolio maker.
-- 🔹 [**Bagify**](https://github.com/Adarshk18/Bagify) – MERN based full-stack bag collections app with Ai chatbot.
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/adarsh-sharma-82815020a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/dev_adarsh286" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://leetcode.com/adarshl2l" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/adarsh400" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://stackoverflow.com/users/21086490" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/>
+  </a>
+</p>
+<br/>
+📌 Featured Projects
+🚀 PortLume
+
+AI-powered portfolio builder for developers
+🧠 Tech: MERN · AI · Tailwind
+
+🛍 Bagify
+
+Full-stack e-commerce platform with AI chatbot
+⚙️ Tech: MERN · MongoDB · OpenAI
 
 ---
 
