@@ -24,7 +24,6 @@ const adarsh = {
   learning: ["Rust", "Solana"],
   openTo: ["Open Source", "Startups", "Web3 dApps"],
   askMeAbout: ["APIs", "MERN", "Rust", "Solana", "Blockchain"],
-  email: "dev.adarsh286@gmail.com"
 }
 ```
 
