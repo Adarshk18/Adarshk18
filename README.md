@@ -51,9 +51,6 @@ const adarsh = {
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://portlume-frontend.onrender.com/u/adarsh" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/89126572?v=4" alt="Me"/>
-  </a>
   <a href="https://linkedin.com/in/adarsh-sharma-82815020a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
