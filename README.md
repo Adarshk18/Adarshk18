@@ -32,7 +32,7 @@ const adarsh = {
 - 👯 Open to collaborate on **Blockchain & Web3 dApps**
 - 💬 Ask me about **REST APIs, Firebase, Blockchain, Rust, Solana, MERN**
 - 📫 Reach me at **dev.adarsh286@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1YvrouOhfv8m6unXOYv62TyiJop5c-LL3/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1eEtM3d5jyFJo0nmdBCQX3JXaBq8ziKSj/view?usp=sharing)
 
 <br/>
 
