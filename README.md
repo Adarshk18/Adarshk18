@@ -32,7 +32,7 @@ const adarsh = {
 - 👯 Open to collaborate on **Blockchain & Web3 dApps**
 - 💬 Ask me about **REST APIs, Firebase, Blockchain, Rust, Solana, MERN**
 - 📫 Reach me at **dev.adarsh286@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1eEtM3d5jyFJo0nmdBCQX3JXaBq8ziKSj/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1NtnGlNhHYpnVlqP71VedSJT4i3m2o6qf/view?usp=sharing)
 
 <br/>
 
@@ -51,6 +51,9 @@ const adarsh = {
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
+  <a href="https://portlume-frontend.onrender.com/u/adarsh" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/89126572?v=4" alt="Me"/>
+  </a>
   <a href="https://linkedin.com/in/adarsh-sharma-82815020a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -72,13 +75,11 @@ const adarsh = {
 
 ## 📌 Featured Projects
 
-🚀 **PortLume**  
+🚀 **[PortLume](https://portlume-frontend.onrender.com/)**
 > AI-powered portfolio builder for developers  
-> 🧠 Tech: MERN · AI · Tailwind  
 
-🛍 **[Bagify](https://github.com/Adarshk18/Bagify)**  
+🛍 **[Bagify](https://bagify-73q7.onrender.com/)**  
 > Full-stack e-commerce platform with AI chatbot  
-> ⚙️ Tech: MERN · MongoDB · OpenAI  
 
 <br/>
 
