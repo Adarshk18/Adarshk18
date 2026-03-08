@@ -39,11 +39,19 @@ const adarsh = {
 <h2 align="center">🛠 Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,rust,react,nodejs,express,mongodb,firebase,solidity&theme=dark" alt="Tech Stack 1"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,rust,python&theme=dark" alt="Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ethereum,solana,hardhat,git,github,docker&theme=dark" alt="Tech Stack 2"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,flask,fastapi&theme=dark" alt="Frameworks"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,redis,aws&theme=dark" alt="Databases & Cloud"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ethereum,solidity,git,github,docker,vercel&theme=dark" alt="Tools & Blockchain"/>
 </p>
 
 <br/>
@@ -72,7 +80,7 @@ const adarsh = {
 
 ## 📌 Featured Projects
 
-🚀 **[PortLume](https://portlume-frontend.onrender.com/)**
+🚀 **[PortLume AI](https://portlume-frontend.onrender.com/)**
 > AI-powered portfolio builder for developers  
 
 🛍 **[Bagify](https://bagify-73q7.onrender.com/)**  
