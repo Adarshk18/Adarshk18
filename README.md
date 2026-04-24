@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+Blockchain+Developer;Rust+%7C+Solana+%7C+Web3;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+Blockchain+Developer;Rust+%7C+Solana+%7C+Web3;Building+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <!-- Coding Animation -->
@@ -95,7 +95,7 @@ const adarsh = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshk18&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=adarshk18&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ const adarsh = {
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshk18&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://ghchart.rshah.org/00F5FF/adarshk18" alt="Contribution Graph" width="95%"/>
 </p>
 
 <br/>
