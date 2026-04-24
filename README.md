@@ -38,20 +38,50 @@ const adarsh = {
 
 <h2 align="center">🛠 Tech Arsenal</h2>
 
+<!-- Languages -->
+<h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,rust,python&theme=dark" alt="Languages"/>
 </p>
 
+<!-- Frameworks & Backend -->
+<h4 align="center">Frameworks & Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,flask,fastapi&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,fastapi,flask&theme=dark" alt="Frameworks"/>
 </p>
 
+<!-- Databases & Cloud -->
+<h4 align="center">Databases & Cloud</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,redis,aws&theme=dark" alt="Databases & Cloud"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,redis,aws&theme=dark" alt="Databases & Cloud"/>
 </p>
 
+<!-- Blockchain -->
+<h4 align="center">Blockchain & Web3</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ethereum,solidity,git,github,docker,vercel&theme=dark" alt="Tools & Blockchain"/>
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
+</p>
+
+<!-- AI & LLMs -->
+<h4 align="center">AI / LLM & RAG</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge&logoColor=white" alt="RAG"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCP-7C00FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
+</p>
+
+<!-- DevOps & Tools -->
+<h4 align="center">DevOps & Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel&theme=dark" alt="Tools"/>
 </p>
 
 <br/>
@@ -107,7 +137,11 @@ const adarsh = {
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00F5FF/adarshk18" alt="Contribution Graph" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshk18/adarshk18/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshk18/adarshk18/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/adarshk18/adarshk18/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  </picture>
 </p>
 
 <br/>
