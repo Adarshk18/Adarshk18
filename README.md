@@ -144,18 +144,13 @@ const adarsh = {
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adarshk18&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" width="95%"/>
-</p>
-
-### 🧩 neetcode-problems — Commit History
+### 🧩 DSA — Consistency
 
 <p align="center">
   <a href="https://github.com/Adarshk18/neetcode-problems">
-    <img src="https://repobeats.axiom.co/api/embed/YOUR_REPOBEATS_TOKEN.svg" alt="Repobeats analytics" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshk18&repo=neetcode-problems&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=00F5FF&point=ffffff&custom_title=neetcode-problems%20Commit%20Activity" alt="neetcode-problems Activity Graph" width="95%"/>
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adarshk18&color=00F5FF&style=flat-square&label=profile+views" alt="Profile Views"/>
