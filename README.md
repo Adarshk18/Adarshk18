@@ -148,7 +148,7 @@ const adarsh = {
 
 <p align="center">
   <a href="https://github.com/Adarshk18/neetcode-problems">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshk18&repo=neetcode-problems&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=00F5FF&point=ffffff&custom_title=neetcode-problems%20Commit%20Activity" alt="all DSA-problems Activity Graph" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshk18&repo=neetcode-problems&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=00F5FF&point=ffffff&custom_title=DSA-problems%20Commit%20Activity" alt="all DSA-problems Activity Graph" width="95%"/>
   </a>
 </p>
 
