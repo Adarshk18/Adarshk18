@@ -145,17 +145,16 @@ const adarsh = {
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00F5FF/adarshk18" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=adarshk18&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" width="95%"/>
 </p>
 
-<!-- Once your snake.yml Action runs successfully, replace the above with:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshk18/adarshk18/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshk18/adarshk18/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/adarshk18/adarshk18/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
--->
+### 🧩 neetcode-problems — Commit History
 
+<p align="center">
+  <a href="https://github.com/Adarshk18/neetcode-problems">
+    <img src="https://repobeats.axiom.co/api/embed/YOUR_REPOBEATS_TOKEN.svg" alt="Repobeats analytics" width="95%"/>
+  </a>
+</p>
 ---
 
 <p align="center">
