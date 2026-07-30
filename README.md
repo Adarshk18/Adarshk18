@@ -26,9 +26,9 @@ const adarsh = {
 ```
 
 - 🔭 Working on **Web 3.0 & Blockchain Projects**
-- 🌱 Learning **Rust, Solana & AI/RAG pipelines**
+- 🌱 Learning **LangChain & AI/RAG pipelines**
 - 👯 Open to collaborate on **Blockchain & Web3 dApps**
-- 💬 Ask me about **REST APIs, Firebase, Blockchain, Rust, Solana, MERN, LLMs**
+- 💬 Ask me about **REST APIs, Firebase, Blockchain, MERN, LLMs**
 - 📫 Reach me at **dev.adarsh286@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1NtnGlNhHYpnVlqP71VedSJT4i3m2o6qf/view?usp=sharing)
 
