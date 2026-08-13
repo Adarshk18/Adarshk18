@@ -18,19 +18,19 @@
 ```typescript
 const adarsh = {
   role: "Software Engineer",
-  focus: ["Backend", "Blockchain", "Web3", "AI/LLMs"],
-  learning: ["Rust", "Solana", "RAG", "MCP"],
-  openTo: ["Open Source", "Startups", "Web3 dApps"],
-  askMeAbout: ["APIs", "MERN", "Rust", "Solana", "Blockchain", "LLMs"],
+  focus: ["Backend", "AI/LLMs", "RAG"],
+  learning: [ "RAG", "MCP"],
+  openTo: ["Open Source", "Startups"],
+  askMeAbout: ["APIs", "MERN", "LLMs"],
 }
 ```
 
-- 🔭 Working on **Web 3.0 & Blockchain Projects**
+- 🔭 Working on **AI Agents**
 - 🌱 Learning **LangChain & AI/RAG pipelines**
-- 👯 Open to collaborate on **Blockchain & Web3 dApps**
-- 💬 Ask me about **REST APIs, Firebase, Blockchain, MERN, LLMs**
+- 👯 Open to collaborate on **Agentic AI projects**
+- 💬 Ask me about **REST APIs, MERN, LLMs, RAG, LangChain, LangGraph**
 - 📫 Reach me at **dev.adarsh286@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1NtnGlNhHYpnVlqP71VedSJT4i3m2o6qf/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1WgSmcCOO_aqGpj4rRlRZStGFe5iSZI2g/view?usp=sharing)
 
 ---
 
